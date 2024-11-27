@@ -1,0 +1,27 @@
+.env.*
+__pycache__
+.aider*
+.env
+.DS_Store
+
+cache.db
+exports/
+
+.vscode/
+
+platform_api/playground/
+
+# Config instances
+*paradox*
+*rb*
+.idea/
+
+# gitguardian
+.cache_ggshield
+.secrets
+
+.my
+
+uv.*
+
+.mypy_cache/*
