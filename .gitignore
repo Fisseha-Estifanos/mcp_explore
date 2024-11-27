@@ -25,3 +25,5 @@ platform_api/playground/
 uv.*
 
 .mypy_cache/*
+
+database/
